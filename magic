@@ -2,3 +2,7 @@
 0	string		\012%PDF-	PDF document
 0	string		\xef\xbb\xbf%PDF-	PDF document (UTF-8)
 0	search/256	%PDF-		PDF document
+0	string	CAJ	CAJ file (canonical)
+0	string	HN	CAJ file (HN variant)
+0	string	KDH	CAJ file (KDH variant)
+0	string	\xc8\x00\x00\x00	CAJ file (C8 variant)
