@@ -5,4 +5,5 @@
 0	string	CAJ	CAJ file (canonical)
 0	string	HN	CAJ file (HN variant)
 0	string	KDH	CAJ file (KDH variant)
+0	string	TEB	CAJ file (TEB variant)
 0	string	\xc8\x00\x00\x00	CAJ file (C8 variant)
